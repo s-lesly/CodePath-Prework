@@ -6,7 +6,7 @@ Submitted by: **Lesly Serrano**
 
 Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://48027166-ed9d-4ea7-bc71-40f03b33d490@api.glitch.com/git/teal-grass-cow
 
 ## Required Functionality
 
