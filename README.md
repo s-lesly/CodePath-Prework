@@ -2,9 +2,9 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Lesly Serrano**
 
-Time spent: **#** hours spent in total
+Time spent: **3** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
@@ -12,17 +12,17 @@ Link to project: (insert your link here, should start with https://glitch.com...
 
 The following **required** functionality is complete:
 
-* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [ ] Game buttons each light up and play a sound when clicked. 
-* [ ] Computer plays back sequence of clues including sound and visual cue for each button
-* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [ ] User wins the game after guessing a complete pattern
-* [ ] User loses the game after an incorrect guess
+* [* ]Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [* ] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [* ] Game buttons each light up and play a sound when clicked. 
+* [* ] Computer plays back sequence of clues including sound and visual cue for each button
+* [* ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [* ] User wins the game after guessing a complete pattern
+* [* ] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [* ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
@@ -47,13 +47,20 @@ Here's a walkthrough of implemented user stories:
 [YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+    It was challenging to create a gif for my prework project because the video took quite some time to upload on the website I used.
+    It then took a while around 8 minutes to convert to GIF, maybe my original screen recording was too long.
+    The gif was way too short but I managed to make it longer by increasing the seconds to show my game functioning.
+    I also had technical issues with GitHub.
   
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+  I want to learn more about index.html, script.js, style.css and if there are any more files or languages utilized to create websites.
+  Working on this project taught me that style.css is where most of the colors, buttons, and fonts of the text are implemented.
+  I am not familiar with HTML and want to learn more about its syntax and function.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+  I would have implemented more buttons and changed the pitch of the sound to match a piano version of a song.
+  Once the user starts the game, the sound that will play a piano version of a song. 
+  Perhaps this way, it will be easier for the user to memorize the pattern if they are familiar with the song.
 
 
 ## License
